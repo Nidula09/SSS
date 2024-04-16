@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\cipher.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:cipher.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:templates\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\show_decrypted_message.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:templates\\show_decrypted_message.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\static\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:static\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\users.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:users.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\show_encrypted_message.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:templates\\show_encrypted_message.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\static\\index_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:static\\index_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\static\\login_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:static\\login_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\Test09.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDEE8A67-95A5-4270-8C07-C000B3E92973}|Test09.pyproj|solutionrelative:Test09.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\static\\styles.css",
+              "RelativeDocumentMoniker": "static\\styles.css",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\static\\styles.css",
+              "RelativeToolTip": "static\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T13:31:44.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "show_decrypted_message.html",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\show_decrypted_message.html",
+              "RelativeDocumentMoniker": "templates\\show_decrypted_message.html",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\show_decrypted_message.html",
+              "RelativeToolTip": "templates\\show_decrypted_message.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-14T13:28:20.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "show_encrypted_message.html",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\show_encrypted_message.html",
+              "RelativeDocumentMoniker": "templates\\show_encrypted_message.html",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\show_encrypted_message.html",
+              "RelativeToolTip": "templates\\show_encrypted_message.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-14T13:27:56.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index_style.css",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\static\\index_style.css",
+              "RelativeDocumentMoniker": "static\\index_style.css",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\static\\index_style.css",
+              "RelativeToolTip": "static\\index_style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T07:33:16.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login_style.css",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\static\\login_style.css",
+              "RelativeDocumentMoniker": "static\\login_style.css",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\static\\login_style.css",
+              "RelativeToolTip": "static\\login_style.css",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T07:32:59.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cipher.py",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\cipher.py",
+              "RelativeDocumentMoniker": "cipher.py",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\cipher.py",
+              "RelativeToolTip": "cipher.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-13T09:51:07.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.html",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\login.html",
+              "RelativeDocumentMoniker": "templates\\login.html",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\login.html",
+              "RelativeToolTip": "templates\\login.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-13T09:51:54.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "users.py",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\users.py",
+              "RelativeDocumentMoniker": "users.py",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\users.py",
+              "RelativeToolTip": "users.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-13T09:51:19.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\index.html",
+              "RelativeDocumentMoniker": "templates\\index.html",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\templates\\index.html",
+              "RelativeToolTip": "templates\\index.html",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwFwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-13T09:51:40.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.py",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\app.py",
+              "RelativeDocumentMoniker": "app.py",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\app.py",
+              "RelativeToolTip": "app.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-13T09:50:53.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test09.py",
+              "DocumentMoniker": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\Test09.py",
+              "RelativeDocumentMoniker": "Test09.py",
+              "ToolTip": "D:\\Desktop\\New folder 001\\SLIIT\\Year 03\\SEM 02\\SSS\\assignment\\APP\\Test09\\Test09.py",
+              "RelativeToolTip": "Test09.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-13T09:39:05.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='index_style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1 class="welcome-message">Welcome {{ username }}</h1>
+
+        <form action="/store" method="POST">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required><br>
+            <input type="submit" value="Store Password">
+        </form>
+
+        {% if encrypted_password %}
+        <div class="alert alert-success" role="alert">
+            Password encrypted successfully. Here is your cipher: {{ encrypted_password }}
+        </div>
+        {% endif %}
+
+        <hr>
+        <h2>Decrypt Password</h2>
+        <form action="/decrypt" method="POST">
+            <label for="ciphertext">Ciphertext:</label>
+            <input type="text" id="ciphertext" name="ciphertext" required><br>
+            <input type="submit" value="Decrypt">
+        </form>
+
+        {% if decrypted_password %}
+        <div class="alert alert-success" role="alert">
+            Successfully decrypted. Here is your password: {{ decrypted_password }}
+        </div>
+        {% endif %}
+
+        {% if is_admin %}
+        <hr>
+        <h2>All Stored Passwords</h2>
+        {% if is_admin %}
+        <h2>Encrypted Ciphers</h2>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Cipher</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for user, name, cipher in ciphers %}
+                <tr>
+                    <td>{{ user }}</td>
+                    <td>{{ name }}</td>
+                    <td>{{ cipher }}</td>
+                </tr>
+                {% endfor %}
+
+            </tbody>
+        </table>
+        {% endif %}
+
+        <hr>
+
+        <form action="/clear" method="POST" onsubmit="return confirm('Are you sure you want to delete all stored passwords? This action cannot be undone.');">
+            <input type="submit" value="Clear Stored Passwords">
+        </form>
+        {% endif %}
+
+        <hr>
+        <form action="/logout" method="POST">
+            <input type="submit" value="Logout">
+        </form>
+    </div>
+
+    <footer class="footer">
+        &copy; 2024 CipherLock. All rights reserved.
+    </footer>
+
+    <script>
+        function copyCipher(cipher) {
+            navigator.clipboard.writeText(cipher).then(() => {
+                alert('Cipher copied to clipboard!');
+            }).catch(err => {
+                console.error('Unable to copy cipher: ', err);
+            });
+        }
+    </script>
+</body>
+</html>
